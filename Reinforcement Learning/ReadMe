@@ -1,1 +1,1 @@
-This folder contains implementation of standard reinforcement learning algorithms : Value Iteration, Policy Iteration, Q learning on a MDP environment described in 'Programming Assignment 3'
+This folder contains implementation of standard reinforcement learning algorithms : Value Iteration, Policy Iteration, Q learning on an MDP environment described in 'Programming Assignment 3'
